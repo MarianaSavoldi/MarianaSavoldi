@@ -1,5 +1,5 @@
 ## Hello there 👋
-### Eu sou a Mari 😄
+### Eu sou a Mari, seja muito bem-vindo(a)! 😄
 
 - 🌱 Atualmente sou estudante de Desenvolvimento Web Full Stack na Trybe
 - ⚡ Fun fact: acabei de me descobrir na carreira de tecnologia! 🤓
@@ -19,8 +19,13 @@
   
 ##
 <div>
-  <a href=https://www.instagram.com/_savoldi_/ target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/_savoldi_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/mariana-savoldi-pereira-76501b197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/marianasavoldi/marianasavoldi/blob/output/github-contribution-grid-snake.svg)
 </div>
+________________________________________________________________________________________
+  
+## Créditos:
+ * 🎥 Tutorial: <a href="https://www.youtube.com/watch?v=TsaLQAetPLU" target="_blank">YouTube</a>
+ * 🖥️ GitHub: <a href="https://github.com/rafaballerini" target="_blank">Rafaella Ballerini</a>
