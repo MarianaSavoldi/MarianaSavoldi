@@ -5,11 +5,9 @@
 - ⚡ Fun fact: Fazem apenas 2 anos que me descobri na carreira de tecnologia! 🤓
 - 🌐 Trabalhando na Remessa Online há pouco mais de 1 ano
 
-<div>
-  <a href="https://github.com/marianasavoldi">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=marianasavoldi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianasavoldi&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianaSavoldi&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaSavoldi&theme=dark&layout=compact)](https://github.com/MarianaSavoldi/github-readme-stats)
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Mari-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
