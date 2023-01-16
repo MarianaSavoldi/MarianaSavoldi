@@ -3,7 +3,7 @@
 
 - 🌱 Formada no curso de Desenvolvimento Web Full Stack na Trybe
 - ⚡ Fun fact: Fazem apenas 2 anos que me descobri na carreira de tecnologia! 🤓
-- 🌐 Trabalhando na Remessa Online há pouco mais de 1 ano
+- 🌐 Revolution Maker at Remessa Online since 2022
 
 ![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianaSavoldi&show_icons=true&theme=transparent)
 
