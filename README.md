@@ -1,8 +1,9 @@
 ## Hello there 👋
 ### Eu sou a Mari, seja muito bem-vindo(a)! 😄
 
-- 🌱 Atualmente sou estudante de Desenvolvimento Web Full Stack na Trybe
-- ⚡ Fun fact: acabei de me descobrir na carreira de tecnologia! 🤓
+- 🌱 Formada no curso de Desenvolvimento Web Full Stack na Trybe
+- ⚡ Fun fact: Fazem apenas 2 anos que me descobri na carreira de tecnologia! 🤓
+- 🌐 Trabalhando na Remessa Online há pouco mais de 1 ano
 
 <div>
   <a href="https://github.com/marianasavoldi">
