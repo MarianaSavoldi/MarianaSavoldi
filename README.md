@@ -2,7 +2,7 @@
 ### Eu sou a Mari, seja muito bem-vindo(a)! 😄
 
 - 🌱 Formada no curso de Desenvolvimento Web Full Stack na Trybe
-- ⚡ Fun fact: Fazem apenas 2 anos que me descobri na carreira de tecnologia! 🤓
+- ⚡ Fun fact: Me descobri na carreira de tecnologia no ano de 2021! 🤓
 - 🌐 Revolution Maker at Remessa Online since 2022
 
 ![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianaSavoldi&show_icons=true&theme=transparent)
