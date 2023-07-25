@@ -4,9 +4,9 @@
 - 🌱 Formada no curso de Desenvolvimento Web Full Stack na Trybe
 - ⚡ Fun fact: Me descobri na carreira de tecnologia no ano de 2021! 🤓
 
-<div width="200">
+<img width="200">
   ![Mari's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarianaSavoldi&show_icons=true&theme=transparent)
-</div>
+</img>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaSavoldi&theme=dark&layout=compact)](https://github.com/MarianaSavoldi/github-readme-stats)
